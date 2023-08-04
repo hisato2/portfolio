@@ -64,8 +64,9 @@ nav ul li a:hover {
 
 .profileImage {
   object-fit: cover;
-  height: 100px;
-  width: 100px;
+  object-position: -36px -0px;
+  height:150px;
+  width: 150px;
   border-radius: 50%;
   margin-bottom: 15px;
 }
